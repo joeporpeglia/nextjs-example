@@ -7,10 +7,10 @@ export default class extends Component {
     return (
       <main>
         <Head>
-          <title>Home page</title>
+          <title>Watch page</title>
         </Head>
 
-        <h1 className={styles.main}>Welcome home</h1>
+        <section className={styles.main}>Welcome to the watch page.</section>
       </main>
     );
   }
